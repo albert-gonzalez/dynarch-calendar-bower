@@ -1,0 +1,28 @@
+{
+  "name": "dynarch-calendar-bower",
+  "version": "1.0.0",
+  "authors": [
+    "Dynarch"
+  ],
+  "description": "Dynarch Calendar for bower",
+  "main": "calendar.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jscalendar",
+    "dynarch",
+    "calendar",
+    "dhtml",
+    "bower"
+  ],
+  "license": "GNU",
+  "homepage": "www.dynarch.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
